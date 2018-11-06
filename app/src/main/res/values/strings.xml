@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="facebook_app_id">362664297469300</string>
+    <string name="fb_login_protocol_scheme">fb362664297469300</string>
+    <string name="app_name">PhotoSocial</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dialog_login_title">Авторизуйтесь, пожалуйста!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
